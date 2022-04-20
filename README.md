@@ -1,1 +1,2 @@
 # gid basic
+full details
